@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ram533
+- 👋 Hi, I’m @RamKinkar Rout
 - 👀 I’m interested in React Js, Redux, Next JS,Tailwind Css, JavaScript(ES6)
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on React projects
